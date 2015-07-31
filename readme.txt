@@ -11,4 +11,5 @@ This is a test,don't ignore it.
 =======
 This is not just a test.
 >>>>>>> Stashed changes
+guy dev in the file of named dev
 
